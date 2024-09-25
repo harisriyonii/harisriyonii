@@ -19,10 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rofi nafiis zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rofi nafiis zain" height="30" width="40" /></a>
-<a href="https://kaggle.com/rofinafiiszain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rofinafiiszain" height="30" width="40" /></a>
-<a href="https://instagram.com/rofinafiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rofinafiin" height="30" width="40" /></a>
-<a href="https://medium.com/@rofinafiisr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rofinafiisr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harisriyoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harisriyoni" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harisriyoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harisriyoni" height="30" width="40" /></a>
+<a href="https://medium.com/@imyharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harisriyoni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
